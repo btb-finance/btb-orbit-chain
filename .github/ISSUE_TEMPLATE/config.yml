@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: BTB Finance Website
+    url: https://www.btb.finance
+    about: Visit our website for the latest updates and information
+  - name: BTB Finance Twitter
+    url: https://twitter.com/btb_finance
+    about: Follow us on Twitter for announcements and updates
   - name: BTB Finance Security Policy
     url: https://github.com/btb-finance/btb-orbit-chain/blob/main/SECURITY.md
     about: Please review our security policy for reporting sensitive security vulnerabilities

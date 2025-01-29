@@ -2,6 +2,9 @@
 
 BTB Finance is an Arbitrum Layer 3 chain built using AnyTrust and Arbitrum Orbit technology.
 
+[![Website](https://img.shields.io/badge/Website-btb.finance-blue)](https://www.btb.finance)
+[![Twitter Follow](https://img.shields.io/twitter/follow/btb_finance?style=social)](https://twitter.com/btb_finance)
+
 ## Chain Specifications
 
 - **Chain Name**: BTB Orbit
