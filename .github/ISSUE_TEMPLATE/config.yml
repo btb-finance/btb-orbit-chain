@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: BTB Finance Security Policy
+    url: https://github.com/btb-finance/btb-orbit-chain/blob/main/SECURITY.md
+    about: Please review our security policy for reporting sensitive security vulnerabilities
+  - name: BTB Finance Documentation
+    url: https://docs.btb.finance
+    about: Check our documentation for answers to common questions
+  - name: BTB Finance Discord
+    url: https://discord.gg/btbfinance
+    about: Join our Discord community for general questions and discussions
